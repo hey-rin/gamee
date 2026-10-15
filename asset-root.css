@@ -1,0 +1,13 @@
+.food-thumb {
+  background-image: url("burger-ingredients.png") !important;
+}
+
+.photo-burger span,
+.photo-burger i,
+.photo-burger b {
+  background-image: url("burger-ingredients.png") !important;
+}
+
+.eating-burger {
+  background-image: url("burger-ingredients.png") !important;
+}
